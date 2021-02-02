@@ -300,7 +300,7 @@ hr {
 body {
   white-space: nowrap;
   background-color: #f2f2f2;
-  font-family: 'Century', serif;
+  
   font-weight: 100;
   font-size: 2px;
   color: #555;
@@ -313,14 +313,14 @@ body {
 /* Titles */
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Palatino Linotype', sans-serif;
+  
   font-weight: 300;
   color: #333;
   
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Palatino Linotype', sans-serif;
+ 
   font-weight: 300;
   color: #333;
   
@@ -419,7 +419,7 @@ hr {
 
 #f h2, h3, h4, h5 {
   color: white;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 700;
   letter-spacing: 1px;
   text-align: center
@@ -427,7 +427,7 @@ hr {
 
 
 #f p {
-  font-size: 3px;
+  font-size: 10px;
   color: #f2f2f2;
   text-align: center left;
   
