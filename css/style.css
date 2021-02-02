@@ -3,7 +3,7 @@
 body {
   white-space: nowrap;
   background-color: #f2f2f2;
-  font-family: 'Century', serif;
+  font-family:  "Hiragino Sans"'Century', serif;
   font-weight: 150;
   font-size: 9px;
   color: #555;
@@ -15,7 +15,7 @@ body {
 
 /* Titles */
 h1 {
-  font-family: 'Palatino Linotype', sans-serif;
+  font-family:  "Hiragino Sans"'Palatino Linotype', sans-serif;
   font-weight: 300;
   color: #333;
   display: inline-block;
@@ -23,7 +23,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Palatino Linotype', sans-serif;
+  font-family:  "Hiragino Sans"'Palatino Linotype', sans-serif;
   font-weight: 300;
   color: #333;
   
